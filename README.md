@@ -1,3 +1,5 @@
+See the project [live](https://Roninanu777.github.io/mern_auth_front)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
